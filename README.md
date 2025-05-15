@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I'm Kingsley Etoka 👋</h2>
 
-[![Twitter followers](https://img.shields.io/twitter/follow/meeroslav?style=social)](https://x.com/sleez_daemon)
-[![GitHub followers](https://img.shields.io/github/followers/meeroslav?style=social)](https://github.com/sleez007)
-[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)]([https://www.linkedin.com/in/meeroslav](https://www.linkedin.com/in/kingsley-etoka-759609101/))
+[![Twitter followers](https://img.shields.io/twitter/follow/sleez_daemon?style=social)](https://x.com/sleez_daemon)
+[![GitHub followers](https://img.shields.io/github/followers/sleez_daemon?style=social)](https://github.com/sleez007)
+[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)]([https://www.linkedin.com/in/sleez_daemon](https://www.linkedin.com/in/kingsley-etoka-759609101/))
 
 
 
