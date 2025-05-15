@@ -7,7 +7,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleez007&theme=solarized_dark)
-![](https://github-readme-stats.vercel.app/api?username=sleez007&show_icons=true&count_private=true&theme=solarized-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeroslav&layout=compact&theme=solarized-dark)
+![](https://github-readme-stats.vercel.app/api?username=sleez007&show_icons=true&count_private=true&theme=solarized-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleez007&layout=compact&theme=solarized-dark)
 
 <!--
 **sleez007/sleez007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
