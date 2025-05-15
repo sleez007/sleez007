@@ -6,15 +6,11 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleez007&theme=solarized_dark)
-![](https://github-readme-stats.vercel.app/api?username=sleez007&show_icons=true&count_private=true&theme=solarized-dark&hide_title=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleez007&layout=compact&theme=solarized-dark)
 
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleez007&theme=solarized_dark&v=1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleez007&show_icons=true&count_private=true&theme=solarized-dark&hide_title=true&hide_rank=true&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleez007&layout=compact&theme=solarized-dark&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleez007&show_icons=true&count_private=true&theme=solarized-dark&hide_title=true&hide_rank=true&v=1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleez007&layout=compact&theme=solarized-dark&v=1)
 
 
 <!--
