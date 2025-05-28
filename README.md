@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on https://www.npmjs.com/package/@innovatespace/tiktok
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on https://www.npmjs.com/package/@innovatespace/tiktok
-- 💬 Ask me about Angular | Next js | React | Nest Js | React Native
+- 💬 Ask me about Micro frontends | Angular | Next JS | React | Nest JS | React Native | Typescript |  Javascript 
 - 📫 How to reach me: kingsley.etoka@gmail.com
 - 😄 Pronouns: he/him
 - Open source Maintainer:  [https://www.npmjs.com/package/@innovatespace/tiktok]
