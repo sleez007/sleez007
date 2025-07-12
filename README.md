@@ -19,7 +19,7 @@
   -   https://www.npmjs.com/package/@innovatespace/nova-icon
   -   https://www.npmjs.com/package/@innovatespace/tiktok
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on https://www.npmjs.com/package/@innovatespace/tiktok
+- 👯 I’m looking to collaborate on fun open source projects
 - 💬 Ask me about Micro frontends | Angular | Next JS | React | Nest JS | React Native | Typescript |  Javascript 
 - 📫 How to reach me: kingsley.etoka@gmail.com
 - 😄 Pronouns: he/him
